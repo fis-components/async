@@ -2,9 +2,12 @@
     "name": "async",
     "description": "Higher-order functions and common patterns for asynchronous code",
     "repos": "https://github.com/caolan/async.git",
-    "main": "lib/async.js",
+    "main": "async",
     "tag": "master",
     "reposType": "npm",
     "dependencies": {},
-    "version": "1.4.2"
+    "version": "1.5.0",
+    "paths": {
+        "dist": "."
+    }
 }
